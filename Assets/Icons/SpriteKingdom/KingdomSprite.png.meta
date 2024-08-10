@@ -1,0 +1,2230 @@
+fileFormatVersion: 2
+guid: 6dee30bd81b5bd84b8478f342752eb72
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KingdomSprite(2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5288
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbbc60bf52d9f64988d4dde57497ab0
+      internalID: 889266635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_1
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 5288
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3872a969900145f47bbca1d2f865e9bc
+      internalID: 584033378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_2
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 5288
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd0931243f8c974eb994314a0cd6979
+      internalID: 143075071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_3
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 5288
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ad932b0cd3d6c4394ca5444d256c45
+      internalID: 447721153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_4
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 5288
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023a710adc9fd2340a8f4f1b67528a55
+      internalID: 551049571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_5
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 5288
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6d8e44638907c4d96480bfd95d7332
+      internalID: -616631728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_6
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 5288
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6dbd894302d5541a439409c919017e
+      internalID: -38566017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_7
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 5288
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4745913e4d1faa34f87c61435e7a2b77
+      internalID: -554010218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_8
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 5288
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a4d7cd9ef28de4fbecbc7810800378
+      internalID: -230250528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4775
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8cf7a12a554104eb09fe2635a7a2a4
+      internalID: 79554329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_10
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 4775
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e504d429ddf1845b90e7bb968d4623
+      internalID: 801620774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_11
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 4775
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e717d904dd9bf2c41ac21c17d3e5bf22
+      internalID: -463475205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_12
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 4775
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c33c4495fb00c4cbba5e0f67ddf4ac
+      internalID: -299820624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_13
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 4775
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a1697c63fe7ea49b8406824d2b3af6
+      internalID: -353439068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_14
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 4775
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36492ef1d24a223498c448ec992fd25c
+      internalID: -293826506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_15
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 4775
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6b6918523dbc741932c7a4c4f4fd5c
+      internalID: -1905243943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_16
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 4775
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f001a4f494de4db47959bf67cb0d217c
+      internalID: -1908505555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_17
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 4775
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fa006d1c00b894eaed924e5887fa29
+      internalID: 1503874396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4262
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c900a98cbbd104e9315ab263eb28e4
+      internalID: -421129206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_19
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 4262
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af12a93c2b1ed1d47827530c4400a215
+      internalID: 140669983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_20
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 4262
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ab88b2de154994a94020db39895aa7
+      internalID: -345263167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_21
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 4262
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a853bcaa0ea1f8c4ea3d2c1f1cae1e09
+      internalID: -1046538747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_22
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 4262
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac46825b27630f44832106bd02375a5
+      internalID: -1333635966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_23
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 4262
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b68bf399119d44b9536be24b8b5d4c
+      internalID: 707963185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_24
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 4262
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b98e277fc64724589a9cd683bc834a
+      internalID: 487417100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_25
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 4262
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575989fa6eb2e7f48a8569a513bfd62d
+      internalID: -1115717354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_26
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 4262
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f706dc386a49643ade2ca50fbc2a98
+      internalID: -479231047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3749
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9f136376ab1b345af19aa9d2dcab61
+      internalID: 1752618140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_28
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 3749
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35a7030e04cad1489d3d7c4a01331f8
+      internalID: -945477475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_29
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 3749
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b812554a09f760c45ad891e80c980cd6
+      internalID: -165306882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_30
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 3749
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864bbe3703a03bc4fabeda1a0f445862
+      internalID: 182205755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_31
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 3749
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3facc715730a834f8cb3c46cfc4236f
+      internalID: 1152179953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_32
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 3749
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789864f68c9ee154d9858956a7af97be
+      internalID: 1175834648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_33
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 3749
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3c9d7bcaddbd24f8137daa8308327e
+      internalID: -2053629320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_34
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 3749
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210c171fb7829a64ab9b5d49093cb21d
+      internalID: 1979749931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_35
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 3749
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431957670c87b8e43a2c06dcc6f58ade
+      internalID: -196366681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3236
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a9c7f8f667124489b2f447b1a31798
+      internalID: 1608245247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_37
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 3236
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9038b522e6674104d9a9d363f7aaa014
+      internalID: 620304037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_38
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 3236
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4521785b43c55e64c9940b256920b36f
+      internalID: 1249413802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_39
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 3236
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8f7b89ea2729b4a9d933e6e2080f0a
+      internalID: -558907576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_40
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 3236
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29755121b0c4a748bf7e9bcfa803966
+      internalID: -1335500046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_41
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 3236
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39c8ad6e4536294baebbce56e770d25
+      internalID: 841751846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_42
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 3236
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd86fd45ca142d749a626ac458dbadc2
+      internalID: -753025520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_43
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 3236
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b23f753b9d48be468fdd4f5d59b9ddb
+      internalID: 1667825347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_44
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 3236
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f277d4fabf67343a5f474cbed32e89
+      internalID: -1356992690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2723
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e4b03c124e7d445a8ef1b88234b92d
+      internalID: -1570189427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_46
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2723
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2317b5173a2c9f74e9636d5d5b9d7aeb
+      internalID: -379062342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_47
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 2723
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea49e2c3a066b549bfaeee67e5b6d72
+      internalID: -2006891591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_48
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 2723
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80d5b74f3527764da41e09e16fb44d3
+      internalID: 140990745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_49
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 2723
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b37cc81decb269459837594153cf402
+      internalID: 1476090576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_50
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 2723
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6864c00154b6f154688760f70d9fe67c
+      internalID: -1623363803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_51
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 2723
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f180cc1b1ef8b44eac1ea86ccec607d
+      internalID: -249616165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_52
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 2723
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122aa966756e45444b57e498994e7a3a
+      internalID: 280481879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_53
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 2723
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e6a850c819a1f488f276c1d54a8546
+      internalID: -1113654733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2210
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd5b405d2fc1a947b8c1779e6718ba4
+      internalID: -320402091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_55
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2210
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282725ca9a0807e4cb99c63ae28d38b9
+      internalID: 750224385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_56
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 2210
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5806a6a656bb95947a345f6b6bb2b806
+      internalID: -1812698399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_57
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 2210
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1207d6cf530d95b4f804dabda017ad63
+      internalID: 1305351873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_58
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 2210
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf2cccbab802b34987c965c622c0766
+      internalID: 889628253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_59
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 2210
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3eee809392351459d26ba55f402d53
+      internalID: -735935326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_60
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 2210
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c33765669654cc4a9af053a14521ee4
+      internalID: 717127482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_61
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 2210
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7de2f63ffaa06a4c9ca63b9c82c8c94
+      internalID: 434591648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_62
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 2210
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249aebd6977b97c4ba3ea3466dee198e
+      internalID: 468337706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1697
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1e5ff6bd0f6354fbcf7a2a24c939a5
+      internalID: 1070102869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_64
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1697
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61bc34eb95ea9b4ab4339e057384d5f
+      internalID: 158113912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_65
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1697
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e380f3214d934479d873bd57eb68d5
+      internalID: 247566927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_66
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1697
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9091e5d7fa7b994f808d9e62ae1f976
+      internalID: 2005341817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_67
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1697
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb927532dc2217043aa23217c5bfc94c
+      internalID: 1509282397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_68
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 1697
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bd0eee952253e46be125bbccb5b69c
+      internalID: 42775524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_69
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 1697
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1d333099e2c3147a3371cca6a80ada
+      internalID: 1364943440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_70
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 1697
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c117e93dc34a362479f917e86dc7fe74
+      internalID: -390950771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_71
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 1697
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab08b57d0305c2a4db553a6900a084f3
+      internalID: -192362693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1184
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d934557942d07a84ca33ef3b576bd3f8
+      internalID: 683522404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_73
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1184
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f04b023c62d0943b54fac56f10b14f
+      internalID: 472095902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_74
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1184
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbcb216df118684dadf3e2177dc6048
+      internalID: -1600851812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_75
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1184
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96088e748b94254da29af887856257b
+      internalID: 870153126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_76
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1184
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e56aff6606c25a4eb2b0d8f3e79c780
+      internalID: 1414926946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_77
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 1184
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb8565d2a167264886086ebb3eebb80
+      internalID: 1925164870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_78
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 1184
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa8e06ac1a6d39468160809fe4da6c8
+      internalID: -1497520204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_79
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 1184
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0506e8cdd9ba034781acac934084853
+      internalID: 1608101710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_80
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 1184
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94264b52b5dcada43be0a456fdcb23e1
+      internalID: -2023298114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741b5cf5dd7df63499e69969d1712894
+      internalID: -191393738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_82
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 671
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef95bea6c29f3f4bb118d2e38be7ebd
+      internalID: 129988693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_83
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 671
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fa7f511d3784a4fb9beecae4166976
+      internalID: 149401591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_84
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 671
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f040456c30b834eabf4d7e805c6df9
+      internalID: 1644898798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_85
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 671
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedb0094b6289844da4a498d0b721bc1
+      internalID: -203523244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_86
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 671
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a9d1a14e263564397423a63838c839
+      internalID: -1893199358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_87
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 671
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8761eb09544c6c49b1457297c41598a
+      internalID: -1608082529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_88
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 671
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c53362f8bf5a2c4bbe924cfcf5b76d8
+      internalID: -379565250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_89
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 671
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374ccc4c6018ca94abe5800bcd8926b8
+      internalID: -442027353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769fb157e728e1649b049f528aa34f00
+      internalID: 941945712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_91
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 158
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa856dc08b0c4b41af7c119d93a8ff1
+      internalID: -1200914617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_92
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 158
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705743694b2b4324e8937f50115c2c5c
+      internalID: 1560625496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_93
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 158
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ef11f6ddf3761498903d0f017f5615
+      internalID: 1775969757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingdomSprite(2)_94
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 158
+        width: 519
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7717942de5eaf48970688fd53137f4
+      internalID: 297711328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e9f61d027e9193542abb4d1a3c0b9dc9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      KingdomSprite(2)_0: 889266635
+      KingdomSprite(2)_1: 584033378
+      KingdomSprite(2)_10: 801620774
+      KingdomSprite(2)_11: -463475205
+      KingdomSprite(2)_12: -299820624
+      KingdomSprite(2)_13: -353439068
+      KingdomSprite(2)_14: -293826506
+      KingdomSprite(2)_15: -1905243943
+      KingdomSprite(2)_16: -1908505555
+      KingdomSprite(2)_17: 1503874396
+      KingdomSprite(2)_18: -421129206
+      KingdomSprite(2)_19: 140669983
+      KingdomSprite(2)_2: 143075071
+      KingdomSprite(2)_20: -345263167
+      KingdomSprite(2)_21: -1046538747
+      KingdomSprite(2)_22: -1333635966
+      KingdomSprite(2)_23: 707963185
+      KingdomSprite(2)_24: 487417100
+      KingdomSprite(2)_25: -1115717354
+      KingdomSprite(2)_26: -479231047
+      KingdomSprite(2)_27: 1752618140
+      KingdomSprite(2)_28: -945477475
+      KingdomSprite(2)_29: -165306882
+      KingdomSprite(2)_3: 447721153
+      KingdomSprite(2)_30: 182205755
+      KingdomSprite(2)_31: 1152179953
+      KingdomSprite(2)_32: 1175834648
+      KingdomSprite(2)_33: -2053629320
+      KingdomSprite(2)_34: 1979749931
+      KingdomSprite(2)_35: -196366681
+      KingdomSprite(2)_36: 1608245247
+      KingdomSprite(2)_37: 620304037
+      KingdomSprite(2)_38: 1249413802
+      KingdomSprite(2)_39: -558907576
+      KingdomSprite(2)_4: 551049571
+      KingdomSprite(2)_40: -1335500046
+      KingdomSprite(2)_41: 841751846
+      KingdomSprite(2)_42: -753025520
+      KingdomSprite(2)_43: 1667825347
+      KingdomSprite(2)_44: -1356992690
+      KingdomSprite(2)_45: -1570189427
+      KingdomSprite(2)_46: -379062342
+      KingdomSprite(2)_47: -2006891591
+      KingdomSprite(2)_48: 140990745
+      KingdomSprite(2)_49: 1476090576
+      KingdomSprite(2)_5: -616631728
+      KingdomSprite(2)_50: -1623363803
+      KingdomSprite(2)_51: -249616165
+      KingdomSprite(2)_52: 280481879
+      KingdomSprite(2)_53: -1113654733
+      KingdomSprite(2)_54: -320402091
+      KingdomSprite(2)_55: 750224385
+      KingdomSprite(2)_56: -1812698399
+      KingdomSprite(2)_57: 1305351873
+      KingdomSprite(2)_58: 889628253
+      KingdomSprite(2)_59: -735935326
+      KingdomSprite(2)_6: -38566017
+      KingdomSprite(2)_60: 717127482
+      KingdomSprite(2)_61: 434591648
+      KingdomSprite(2)_62: 468337706
+      KingdomSprite(2)_63: 1070102869
+      KingdomSprite(2)_64: 158113912
+      KingdomSprite(2)_65: 247566927
+      KingdomSprite(2)_66: 2005341817
+      KingdomSprite(2)_67: 1509282397
+      KingdomSprite(2)_68: 42775524
+      KingdomSprite(2)_69: 1364943440
+      KingdomSprite(2)_7: -554010218
+      KingdomSprite(2)_70: -390950771
+      KingdomSprite(2)_71: -192362693
+      KingdomSprite(2)_72: 683522404
+      KingdomSprite(2)_73: 472095902
+      KingdomSprite(2)_74: -1600851812
+      KingdomSprite(2)_75: 870153126
+      KingdomSprite(2)_76: 1414926946
+      KingdomSprite(2)_77: 1925164870
+      KingdomSprite(2)_78: -1497520204
+      KingdomSprite(2)_79: 1608101710
+      KingdomSprite(2)_8: -230250528
+      KingdomSprite(2)_80: -2023298114
+      KingdomSprite(2)_81: -191393738
+      KingdomSprite(2)_82: 129988693
+      KingdomSprite(2)_83: 149401591
+      KingdomSprite(2)_84: 1644898798
+      KingdomSprite(2)_85: -203523244
+      KingdomSprite(2)_86: -1893199358
+      KingdomSprite(2)_87: -1608082529
+      KingdomSprite(2)_88: -379565250
+      KingdomSprite(2)_89: -442027353
+      KingdomSprite(2)_9: 79554329
+      KingdomSprite(2)_90: 941945712
+      KingdomSprite(2)_91: -1200914617
+      KingdomSprite(2)_92: 1560625496
+      KingdomSprite(2)_93: 1775969757
+      KingdomSprite(2)_94: 297711328
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
